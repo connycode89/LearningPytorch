@@ -1,0 +1,56 @@
+# BEGINNER TUTORIALS
+## Deep Learning with PyTorch: A 60 Minute Blitz
+http://pytorch.org/tutorials/_downloads/tensor_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/autograd_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/neural_networks_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/cifar10_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/data_parallel_tutorial.ipynb
+
+## PyTorch for former Torch users
+http://pytorch.org/tutorials/_downloads/tensor_tutorial1.ipynb
+http://pytorch.org/tutorials/_downloads/autograd_tutorial1.ipynb
+http://pytorch.org/tutorials/_downloads/nn_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/parallelism_tutorial.ipynb
+
+## Learning PyTorch with Examples
+### Tensors
+http://pytorch.org/tutorials/_downloads/two_layer_net_numpy.ipynb
+http://pytorch.org/tutorials/_downloads/two_layer_net_tensor.ipynb
+
+### Autograd
+http://pytorch.org/tutorials/_downloads/two_layer_net_autograd.ipynb
+http://pytorch.org/tutorials/_downloads/two_layer_net_custom_function.ipynb
+http://pytorch.org/tutorials/_downloads/tf_two_layer_net.ipynb
+
+### nn module
+http://pytorch.org/tutorials/_downloads/two_layer_net_nn.ipynb
+http://pytorch.org/tutorials/_downloads/two_layer_net_optim.ipynb
+http://pytorch.org/tutorials/_downloads/two_layer_net_module.ipynb
+http://pytorch.org/tutorials/_downloads/dynamic_net.ipynb
+
+## Transfer Learning tutorial
+http://pytorch.org/tutorials/_downloads/transfer_learning_tutorial.ipynb
+
+## Data Loading and Processing Tutorial
+http://pytorch.org/tutorials/_downloads/data_loading_tutorial.ipynb
+
+## Deep Learning for NLP with Pytorch
+http://pytorch.org/tutorials/_downloads/pytorch_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/deep_learning_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/word_embeddings_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/sequence_models_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/advanced_tutorial.ipynb
+
+# INTERMEDIATE TUTORIALS
+http://pytorch.org/tutorials/_downloads/char_rnn_classification_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/char_rnn_generation_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/seq2seq_translation_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/reinforcement_q_learning.ipynb
+https://raw.githubusercontent.com/pytorch/tutorials/master/intermediate_source/dist_tuto.rst
+http://pytorch.org/tutorials/_downloads/spatial_transformer_tutorial.ipynb
+
+# ADVANCED TUTORIALS
+http://pytorch.org/tutorials/_downloads/neural_style_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/numpy_extensions_tutorial.ipynb
+http://pytorch.org/tutorials/_downloads/super_resolution_with_caffe2.ipynb
+https://raw.githubusercontent.com/pytorch/tutorials/master/advanced_source/c_extension.rst
