@@ -13,15 +13,15 @@ aws ec2 authorize-security-group-ingress --group-name JupyterSecurityGroup --pro
 # launch instance 
 aws ec2 run-instances --image-id ami-41570b32 --count 1 --instance-type p2.xlarge --key-name <YOUR_KEY_NAME> --security-groups JupyterSecurityGroup
 
-Running Jupyter on localhost, port 8888
-SSH
+# Running Jupyter on localhost, port 8888
+# SSH
 ssh -i "your_pem_file.pem" ec2-user@ec2*.compute.amazonaws.com -L 8888:127.0.0.1:8888
 
-Configure Jupyter Server
+# Configure Jupyter Server
 jupyter notebook --generate-config
 key=$(python -c "from notebook.auth import passwd; print(passwd())")
 
-Make sure to answer all questions:
+# Make sure to answer all questions:
 cd ~
 mkdir certs
 cd certs
@@ -38,7 +38,7 @@ c.NotebookApp.open_browser = False\\
 c.NotebookApp.password = u'$key'\\
 c.NotebookApp.port = 8888" .jupyter/jupyter_notebook_config.py
 
-Create notebooks directory and run Jupyter
+# Create notebooks directory and run Jupyter
 mkdir notebooks
 cd notebooks
 jupyter notebook
