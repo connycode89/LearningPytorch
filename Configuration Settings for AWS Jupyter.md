@@ -1,7 +1,7 @@
 Guide to setting up Jupyter on AWS
 https://kenophobio.github.io/2017-01-10/deep-learning-jupyter-ec2/
 
-Launching AWS instance
+# Launching AWS instance
 # create security group 
 aws ec2 create-security-group --group-name JupyterSecurityGroup --description "My Jupyter security group"
 
