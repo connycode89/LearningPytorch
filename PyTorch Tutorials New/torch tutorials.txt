@@ -1,0 +1,118 @@
+# GETTING STARTED
+## Deep Learning with PyTorch: A 60 Minute Blitz
+https://pytorch.org/tutorials/_downloads/3c2b25b8a9f72db7780a6bf9b5fc9f62/tensor_tutorial.ipynb
+https://pytorch.org/tutorials/_downloads/009cea8b0f40dfcb55e3280f73b06cc2/autograd_tutorial.ipynb
+https://pytorch.org/tutorials/_downloads/97abb4c06a586d45ef3fc4b4b9634406/neural_networks_tutorial.ipynb
+https://pytorch.org/tutorials/_downloads/17a7c7cb80916fcdf921097825a0f562/cifar10_tutorial.ipynb
+https://pytorch.org/tutorials/_downloads/63ecfdf27b96977f3a89015f60065a2b/data_parallel_tutorial.ipynb
+
+## Data Loading and Processing Tutorial
+https://pytorch.org/tutorials/_downloads/21adbaecd47a412f8143afb1c48f05a6/data_loading_tutorial.ipynb
+
+## Learning PyTorch with Examples
+### Tensors
+https://pytorch.org/tutorials/_downloads/f00a2a1e490ec62f7c1bcb950318b7f7/two_layer_net_numpy.ipynb
+https://pytorch.org/tutorials/_downloads/449b1270b788a2ddf451772f6a4e7470/two_layer_net_tensor.ipynb
+
+### Autograd
+https://pytorch.org/tutorials/_downloads/b8ed57e2c40a637d92a891b4cf7e72f6/two_layer_net_autograd.ipynb
+https://pytorch.org/tutorials/_downloads/7df1a8d6c18d6c7122649856a1ac16b8/two_layer_net_custom_function.ipynb
+https://pytorch.org/tutorials/_downloads/b02e4df053fc00e99c54faf84af3177f/tf_two_layer_net.ipynb
+
+### nn module
+https://pytorch.org/tutorials/_downloads/7f1a8a2cb5a62c19268b29c5a0d7a859/two_layer_net_nn.ipynb
+https://pytorch.org/tutorials/_downloads/a48ba4d15c30996aeba51337fb0c8dd7/two_layer_net_optim.ipynb
+https://pytorch.org/tutorials/_downloads/843ace305951b2a897f80a52e1189938/two_layer_net_module.ipynb
+https://pytorch.org/tutorials/_downloads/ad230923bd9eb0d42576725b63ad8d91/dynamic_net.ipynb
+
+## Transfer Learning tutorial
+https://pytorch.org/tutorials/_downloads/62840b1eece760d5e42593187847261f/transfer_learning_tutorial.ipynb
+
+## Deploying a Seq2Seq Model with the Hybrid Frontend
+https://pytorch.org/tutorials/_downloads/e7870c00b625a9c7c808f8fa7a88fcab/deploy_seq2seq_hybrid_frontend_tutorial.ipynb
+
+## Saving and Loading Models
+https://pytorch.org/tutorials/_downloads/b50843b19ff6d24140129232a11bcbff/saving_loading_models.ipynb
+
+## What is torch.nn really?
+https://pytorch.org/tutorials/_downloads/5ddab57bb7482fbcc76722617dd47324/nn_tutorial.ipynb
+
+# IMAGE
+## Finetuning Torchvision Models
+https://pytorch.org/tutorials/_downloads/df1f5ef1c1a8e1a111e88281b27829fe/finetuning_torchvision_models_tutorial.ipynb
+
+## Spatial Transformer Networks Tutorial
+https://pytorch.org/tutorials/_downloads/b0786fd6ca28ee4ff3f2aa27080cdf18/spatial_transformer_tutorial.ipynb
+
+## Neural Transfer Using PyTorch
+https://pytorch.org/tutorials/_downloads/f16c4cab7b50f6dea0beb900dee4bf0e/neural_style_tutorial.ipynb
+
+## Adversarial Example Generation
+https://pytorch.org/tutorials/_downloads/fba7866856a418520404ba3a11142335/fgsm_tutorial.ipynb
+
+## Transfering a Model from PyTorch to Caffe2 and Mobile using ONNX
+https://pytorch.org/tutorials/_downloads/34b25873c2c93c35a228c023e25d4b0f/super_resolution_with_caffe2.ipynb
+
+# TEXT
+## Chatbot Tutorial
+https://pytorch.org/tutorials/_downloads/cf54d584af1322e88020549223e907dc/chatbot_tutorial.ipynb
+
+## Generating Names with a Character-Level RNN
+https://pytorch.org/tutorials/_downloads/a35c00bb5afae3962e1e7869c66872fa/char_rnn_generation_tutorial.ipynb
+
+## Classifying Names with a Character-Level RNN
+https://pytorch.org/tutorials/_downloads/977c14818c75427641ccb85ad21ed6dc/char_rnn_classification_tutorial.ipynb
+
+## Deep Learning for NLP with Pytorch
+### Introduction to PyTorch
+https://pytorch.org/tutorials/_downloads/7e00f82429a7b691e42bb5828dbb036e/pytorch_tutorial.ipynb
+
+### Deep Learning with PyTorch
+https://pytorch.org/tutorials/_downloads/755bf5a1deed0d3ab50f96bf7ca4ec7a/deep_learning_tutorial.ipynb
+
+### Word Embeddings: Encoding Leixcal Semantics
+https://pytorch.org/tutorials/_downloads/e6a250a908acf3362a7ae511adf55881/word_embeddings_tutorial.ipynb
+
+### Sequence Models and Long-Short Term Memory Networks
+https://pytorch.org/tutorials/_downloads/d59e2f90fcd8d4aff31637dad011146e/sequence_models_tutorial.ipynb
+
+### Advanced: Making Dynamic Decisions and the Bi-LSTM CRF
+https://pytorch.org/tutorials/_downloads/b3265db81c2bf86cc3e2b0dcdaddc850/advanced_tutorial.ipynb
+
+## Translation with a Sequence to Sequence Network and Attention
+https://pytorch.org/tutorials/_downloads/a60617788061539b5449701ae76aee56/seq2seq_translation_tutorial.ipynb
+
+# GENERATIVE
+## DCGAN Tutorial
+https://pytorch.org/tutorials/_downloads/e9c8374ecc202120dc94db26bf08a00f/dcgan_faces_tutorial.ipynb
+
+# REINFORCEMENT LEARNING
+## Reinforcement Learning (DQN) Tutorial
+https://pytorch.org/tutorials/_downloads/2b3f06b04b5e96e4772746c20fcb4dcc/reinforcement_q_learning.ipynb
+
+# EXTENDING PYTORCH
+## Creating Extensions Using numpy and scipy
+https://pytorch.org/tutorials/_downloads/36e0b75bb574c654dd2e56581312013b/numpy_extensions_tutorial.ipynb
+
+## Custom C++ and CUDA Extensions
+https://github.com/pytorch/extension-cpp
+
+## Extending TorchScript with Custom C++ Operators
+https://github.com/pytorch/extension-script
+
+# PRODUCTION USAGE
+## Writing Distributed Applications with PyTorch
+https://github.com/seba-1511/dist_tuto.pth/
+
+## PyTorch 1.0 Distributed Trainer with Amazon AWS
+https://pytorch.org/tutorials/_downloads/80fe1ab73c6b2b3cefcd5ba0e4ed7609/aws_distributed_training_tutorial.ipynb
+
+## ONNX Live Tutorial
+https://pytorch.org/tutorials/advanced/ONNXLive.html#
+
+## Loading a PyTorch Model in C++
+https://pytorch.org/tutorials/advanced/cpp_export.html
+
+# PYTORCH IN OTHER LANGUAGES
+## Using the PyTorch C++ Frontend
+https://pytorch.org/tutorials/advanced/cpp_frontend.html#
