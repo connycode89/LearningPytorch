@@ -1,0 +1,64 @@
+# Getting Started
+## Deep Learning with PyTorch: A 60 Minute Blitz
+1. https://pytorch.org/tutorials/_downloads/3c2b25b8a9f72db7780a6bf9b5fc9f62/tensor_tutorial.ipynb
+2. https://pytorch.org/tutorials/_downloads/009cea8b0f40dfcb55e3280f73b06cc2/autograd_tutorial.ipynb
+3. https://pytorch.org/tutorials/_downloads/97abb4c06a586d45ef3fc4b4b9634406/neural_networks_tutorial.ipynb
+4. https://pytorch.org/tutorials/_downloads/17a7c7cb80916fcdf921097825a0f562/cifar10_tutorial.ipynb
+5. https://pytorch.org/tutorials/_downloads/63ecfdf27b96977f3a89015f60065a2b/data_parallel_tutorial.ipynb
+
+## Writing Custom Datasets, DataLoaders and Transforms
+6. https://pytorch.org/tutorials/_downloads/21adbaecd47a412f8143afb1c48f05a6/data_loading_tutorial.ipynb
+
+# Image
+9. https://pytorch.org/tutorials/_downloads/62840b1eece760d5e42593187847261f/transfer_learning_tutorial.ipynb
+10. https://pytorch.org/tutorials/_downloads/b0786fd6ca28ee4ff3f2aa27080cdf18/spatial_transformer_tutorial.ipynb
+11. https://pytorch.org/tutorials/_downloads/f16c4cab7b50f6dea0beb900dee4bf0e/neural_style_tutorial.ipynb
+12. https://pytorch.org/tutorials/_downloads/fba7866856a418520404ba3a11142335/fgsm_tutorial.ipynb
+13. https://pytorch.org/tutorials/_downloads/e9c8374ecc202120dc94db26bf08a00f/dcgan_faces_tutorial.ipynb
+
+# Audio
+14. https://pytorch.org/tutorials/_downloads/7303ce3181f4dbc9a50bc1ed5bb3218f/audio_preprocessing_tutorial.ipynb
+
+# Text
+15. https://pytorch.org/tutorials/_downloads/977c14818c75427641ccb85ad21ed6dc/char_rnn_classification_tutorial.ipynb
+16. https://pytorch.org/tutorials/_downloads/a35c00bb5afae3962e1e7869c66872fa/char_rnn_generation_tutorial.ipynb
+17. https://pytorch.org/tutorials/_downloads/a60617788061539b5449701ae76aee56/seq2seq_translation_tutorial.ipynb
+18. https://pytorch.org/tutorials/_downloads/27bd42079e7f46673b53e90153168529/text_sentiment_ngrams_tutorial.ipynb
+19. https://pytorch.org/tutorials/_downloads/05baddac9b2f50d639a62ea5fa6e21e4/torchtext_translation_tutorial.ipynb
+20. https://pytorch.org/tutorials/_downloads/dca13261bbb4e9809d1a3aa521d22dd7/transformer_tutorial.ipynb
+
+# Named Tensor (experimental)
+21. https://pytorch.org/tutorials/_downloads/90d6df7aa4b65bb035e19943c6f92ea0/named_tensor_tutorial.ipynb
+
+# Reinforcement Learning
+22. https://pytorch.org/tutorials/_downloads/2b3f06b04b5e96e4772746c20fcb4dcc/reinforcement_q_learning.ipynb
+
+# Deploying PyTorch Models in Production
+23. https://pytorch.org/tutorials/_downloads/6c042f3d39855d2a2de414758e5f9836/flask_rest_api_tutorial.ipynb
+24. https://pytorch.org/tutorials/_downloads/0fd9e9bc92ac80a422914e974021c007/Intro_to_TorchScript_tutorial.ipynb
+26. https://pytorch.org/tutorials/_downloads/8c7f0be1e1c3803fcb4c41bcd9f4226b/super_resolution_with_onnxruntime.ipynb
+
+# Parallel and Distributed Training
+27. https://pytorch.org/tutorials/_downloads/b882009cab92c6a1d9121b1f8c4108c4/model_parallel_tutorial.ipynb
+30. https://pytorch.org/tutorials/_downloads/80fe1ab73c6b2b3cefcd5ba0e4ed7609/aws_distributed_training_tutorial.ipynb
+
+# Extending PyTorch
+32. https://pytorch.org/tutorials/_downloads/36e0b75bb574c654dd2e56581312013b/numpy_extensions_tutorial.ipynb
+
+# Quantization (experimental)
+34. https://pytorch.org/tutorials/_downloads/9387e74b1a614d9ed5642654e06b1728/dynamic_quantization_tutorial.ipynb
+35. https://pytorch.org/tutorials/_downloads/03ac9a8e1176f5e39736885e8c439a82/static_quantization_tutorial.ipynb
+
+# PyTorch Fundamentals In-Depth
+38. https://pytorch.org/tutorials/_downloads/5ddab57bb7482fbcc76722617dd47324/nn_tutorial.ipynb
+
+### No Notebook
+7. https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html
+8. https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+25. https://pytorch.org/tutorials/advanced/cpp_export.html
+28. https://pytorch.org/tutorials/intermediate/ddp_tutorial.html
+29. https://pytorch.org/tutorials/intermediate/dist_tuto.html
+31. https://pytorch.org/tutorials/advanced/torch_script_custom_ops.html
+33. https://pytorch.org/tutorials/advanced/cpp_extension.html
+36. https://pytorch.org/tutorials/advanced/cpp_frontend.html
+37. https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
